@@ -1,4 +1,5 @@
 [package]
+repository = "https://github.com/SuperInstance/fleet-dedup"
 name = "fleet-dedup"
 version = "0.1.0"
 edition = "2021"
